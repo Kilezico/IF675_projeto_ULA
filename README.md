@@ -32,6 +32,7 @@ que serão selecionadas a partir dos códigos da tabela abaixo:
 Entradas:
 - Dois vetores de 5 bits (A e B), onde o quinto bit é o sinal e o resto é o módulo.
 - Um vetor de 3 bits que servirá de seletor para as diversas operações disponíveis.
+  
 Saídas:
 - Um vetor de 5 bits F, onde o quinto bit é o carry, que vai ser o resultado das operações
 que retornam um vetor. Deve ser representado por 5 LEDs.
